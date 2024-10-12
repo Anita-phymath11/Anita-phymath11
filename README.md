@@ -2,6 +2,7 @@
 - :) Interested in Mathematics, Physics, and Computer Science
 - 👀 Python programmer
 - 🌱 I’m currently learning programming
+- :) Always eager to learn
 
 
 <!---
