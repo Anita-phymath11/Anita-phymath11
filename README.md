@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anita
 - :) Interested in Mathematics, Physics, and Computer Science
-- 👀 Python programmer and html learner
+- 👀 Python programmer and html.css learner
 - 🌱 I’m currently learning programming
 - :) Always eager to learn
 
