@@ -1,8 +1,15 @@
-Hi I'm Anita🖐
-I am a teen who is in love with computers, electricity and anything else related to math and physics 📖❤
-My skills:
-  Phython programmer💻
-  Html css programmer📚
-  html css degree📝
+## Hello 👋 I'm Anita Karami
+![Snake animation](https://github.com/Anita-phymath11/Anita-phymath11/raw/output/github-contribution-grid-snake.svg)
 
-You can check out my new projects in my repositories😉
+
+# 👩 About me :
+- 📝 Secondry school student
+- 💫 Interested in computer science
+- 📚 Interested in electricity
+And anything that relates to math and physics❤
+- 💻 Skilled in :
+    - Python 
+    - Html & Css
+ 
+You can checkout my new projects and repositories😉
+ 
