@@ -1,9 +1,7 @@
 ## Hello 👋 I'm Anita Karami
 
+
 ![snake](https://github.com/Anita-phymath11/Anita-phymath11/blob/output/snake.svg)
-
-
-
 
 
 # 👩 About me :
