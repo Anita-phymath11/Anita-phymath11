@@ -1,6 +1,7 @@
 ## Hello 👋 I'm Anita Karami
 
-![snake animation](https://github.com/Anita-phymath11/Anita-phymath11/blob/output/snake.svg)
+![snake](https://github.com/Anita-phymath11/Anita-phymath11/blob/output/snake.svg)
+
 
 
 
