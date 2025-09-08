@@ -1,6 +1,7 @@
 ## Hello 👋 I'm Anita Karami
 
-![Snake animation](https://github.com/nafas-2024/nafas-2024/raw/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/Anita-phymath11/Anita-phymath11/blob/output/snake.svg)
+
 
 
 
