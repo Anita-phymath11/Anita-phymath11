@@ -4,7 +4,7 @@
 
 
 # 👩 About me :
-- 📝 Secondry school student
+- 📝 High school student
 - 💫 Interested in computer science
 - 📚 Interested in electricity
 And anything that relates to math and physics❤
